@@ -16,7 +16,6 @@
         }
     ],
     "require": {
-        "illuminate/support": "^7.0",
         "laravelcollective/html": "^6.2",
         "illuminate/translation": "^7.2",
         "doctrine/dbal": "^2.10",
